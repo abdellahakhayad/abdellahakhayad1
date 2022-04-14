@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abdellah Akhayad
 - 👀 I’m interested in coding, soccer 
 - 🌱 I’m currently learning Blazor
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (abdellah.akhayad@gmail.com)
 
 <!---
