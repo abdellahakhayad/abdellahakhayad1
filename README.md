@@ -5,7 +5,6 @@
 - My biggest projects that I did:
   I made together with Benjamin link: https://github.com/HOGENT-PRG/Projectwerk-Fleetmanagement,
   For my internship an Portal for smart city's (Sirus nv) 
-- 
 
 <!---
 abdellahakhayad1/abdellahakhayad1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
