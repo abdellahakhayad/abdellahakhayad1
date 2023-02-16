@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Blazor
 - 📫 How to reach me (abdellah.akhayad@gmail.com)
 - My biggest projects that I did:
-  I made together with Benjamin link: https://github.com/HOGENT-PRG/Projectwerk-Fleetmanagement,
+  Together with Benjamin link: https://github.com/HOGENT-PRG/Projectwerk-Fleetmanagement,
   For my internship an Portal for smart city's (Sirus nv) 
 
 <!---
